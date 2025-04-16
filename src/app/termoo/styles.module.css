@@ -1,0 +1,14 @@
+.termoo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.letra{
+    color: white;
+    padding: 10px;
+    background-color: #624f28;
+    border: 2px solid #493a1e;
+    border-radius: 5px;
+    margin: 2px;
+}
