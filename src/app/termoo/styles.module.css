@@ -5,10 +5,50 @@
 }
 
 .letra{
-    color: white;
+    color: #fafaff;
     padding: 10px;
-    background-color: #624f28;
-    border: 2px solid #493a1e;
+    background-color: #6e5c62;
+    border: 2px solid #4c4347;
     border-radius: 5px;
     margin: 2px;
+    width: 5%;
+}
+
+.letraCerta {
+    color: #fafaff;
+    padding: 10px;
+    background-color: #3aa394;
+    border: 2px solid #547f7b;
+    border-radius: 5px;
+    margin: 2px;
+    width: 5%;
+}
+
+.temLetra {
+    color: #fafaff;
+    padding: 10px;
+    background-color: #d3ad69;
+    border: 2px solid #d3ad69;
+    border-radius: 5px;
+    margin: 2px;
+    width: 5%;
+}
+
+.naoTem {
+    color: #fafaff;
+    padding: 10px;
+    background-color: #312a2c;
+    border: 2px solid #312a2c;
+    border-radius: 5px;
+    margin: 2px;
+    width: 5%;
+}
+
+.input{
+    width: 80%;
+    border: none;
+}
+
+.input:focus {
+    outline: none;
 }
